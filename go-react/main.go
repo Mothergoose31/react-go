@@ -17,5 +17,5 @@ type menuItem struct {
 }
 
 func main() {
-
+	//test .env removal
 }
